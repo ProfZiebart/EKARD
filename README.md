@@ -1,7 +1,7 @@
 # EKARD 
 Der **E**inhand **K**nickarm **R**oboter für den **D**esktop. Ein billiger Übungsroboter für die Lehre. Zielpreis unter 200€.
 
-![EKARD](https://github.com/ProfZiebart/EKARD/blob/main/Pictures/EKARD.png
+![EKARD](https://github.com/ProfZiebart/EKARD/blob/main/Pictures/EKARD.png)
 
 # Stückliste
 -	4x MG90s
